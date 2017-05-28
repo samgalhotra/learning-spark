@@ -13,7 +13,7 @@ Requirements
 * JDK 1.7 or higher
 * Scala 2.10.3
 - scala-lang.org
-* Spark 1.3
+* Spark 1.6
 * Protobuf compiler
 - On debian you can install with sudo apt-get install protobuf-compiler
 * R & the CRAN package Imap are required for the ChapterSixExample
